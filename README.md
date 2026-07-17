@@ -1,3 +1,30 @@
+# Ana – Full-Stack Developer
+
+I build secure, polished full-stack applications with React, Node.js, Express, MongoDB, Redis, and Stripe.
+
+## Featured Projects
+
+### Nebula Forge
+
+<img width="2428" height="1312" alt="Screenshot 2026-07-17 151645" src="https://github.com/user-attachments/assets/5c9f3aad-0a59-4147-9a40-2128e38ced5b" />
+
+A cosmic hardware marketplace with Stripe webhooks, atomic inventory management, guest checkout, authentication, search, and category filtering.
+
+[Live Demo](https://nebula-forge-ecommerce-web-app.vercel.app/) · [Source Code](https://github.com/anaa2002/NebulaForge-Ecommerce-Web-App)
+
+### Dragon Gate Auth\
+
+<img width="2430" height="1210" alt="image" src="https://github.com/user-attachments/assets/177c874a-5e7f-46de-8959-56525f91e779" />
+
+A secure authentication system with short-lived access tokens, rotating refresh tokens, HttpOnly cookies, Redis-backed sessions, Axios interceptors, and automatic session restoration.
+
+[Live Demo](https://dragon-gate-auth.vercel.app/) · [Source Code](https://github.com/anaa2002/Dragon-Gate-Auth)
+
+### MoonCart
+A full-stack MERN e-commerce platform with admin product management, Cloudinary uploads, Redis caching, shopping cart functionality, and Stripe checkout.
+
+[Live Demo](https://ecommerce-web-app-green.vercel.app/) · [Source Code](https://github.com/anaa2002/MoonCart-Ecommerce-Web-App)
+
 # 💫 About Me:
 🔭 I’m currently working on full-stack web applications with React, Node.js, TypeScript, Express, MongoDB, authentication systems, dashboards, and deployed projects.<br><br>🤝 I’m looking to collaborate on MERN stack projects, authentication flows, e-commerce apps, dashboards, productivity tools, and beginner-friendly AI-integrated web apps.<br><br>🧠 I’m currently learning Next.js, Tailwind CSS, PostgreSQL, advanced backend architecture, AI API integration, and stronger software engineering practices.<br><br>💬 Ask me about JavaScript, React, Node.js, TypeScript, Express, MongoDB, JWT authentication, REST APIs, full-stack deployment, Git/GitHub, and building projects from idea to deployment.<br><br>⚡ Fun fact: I’m interested in AI, game development, computer systems, physics, and building creative tools that feel useful, beautiful, and a little bit futuristic.<br>
 
