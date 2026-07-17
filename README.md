@@ -12,7 +12,7 @@ A cosmic hardware marketplace with Stripe webhooks, atomic inventory management,
 
 [Live Demo](https://nebula-forge-ecommerce-web-app.vercel.app/) · [Source Code](https://github.com/anaa2002/NebulaForge-Ecommerce-Web-App)
 
-### Dragon Gate Auth\
+### Dragon Gate Auth
 
 <img width="2430" height="1210" alt="image" src="https://github.com/user-attachments/assets/177c874a-5e7f-46de-8959-56525f91e779" />
 
