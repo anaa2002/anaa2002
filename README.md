@@ -21,6 +21,9 @@ A secure authentication system with short-lived access tokens, rotating refresh 
 [Live Demo](https://dragon-gate-auth.vercel.app/) · [Source Code](https://github.com/anaa2002/Dragon-Gate-Auth)
 
 ### MoonCart
+
+<img width="2464" height="1286" alt="image" src="https://github.com/user-attachments/assets/b7d86107-e163-48c1-8e7a-a6686d0166d5" />
+
 A full-stack MERN e-commerce platform with admin product management, Cloudinary uploads, Redis caching, shopping cart functionality, and Stripe checkout.
 
 [Live Demo](https://ecommerce-web-app-green.vercel.app/) · [Source Code](https://github.com/anaa2002/MoonCart-Ecommerce-Web-App)
